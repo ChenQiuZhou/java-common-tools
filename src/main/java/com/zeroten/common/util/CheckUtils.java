@@ -16,6 +16,7 @@ public class CheckUtils {
 
     public static void main(String[] args) {
         System.out.println("~~");
+        System.out.println("~~");
         String[] arr=new String[]{"1",null,"","2"};
         System.out.println(isAnyEmpty(arr));
     }
